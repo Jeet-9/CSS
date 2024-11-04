@@ -1,0 +1,25 @@
+div {
+    height: 100px;
+    width: 200px;
+    border: 5px solid black;
+}
+
+.dark {
+    background: #333;
+}
+
+#one {
+    background-color: blue;
+}
+
+img {
+    border: 8px solid rgb(26, 135, 230);
+}
+
+#two {
+    background-color: rgb(135, 52, 224);
+}
+
+#three {
+    background-color: rgb(162, 60, 203);
+}

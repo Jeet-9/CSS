@@ -1,0 +1,32 @@
+h1 {
+    color: #feda75;
+    color: #fa7e1e;
+    color: #d62976;
+    font-family: cursive;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+input {
+    font-size: 20px;
+}
+
+i {
+    font-size: 30px;
+}
+
+.two {
+    text-transform: uppercase;
+}
+
+.three {
+    text-indent: 50px;
+    font-family: 'Young Serif', serif;
+}
+ 
+footer {
+    text-decoration: line-through;
+    text-align: center;
+}
